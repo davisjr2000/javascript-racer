@@ -25,7 +25,7 @@ var SPRITES = {
   TRUCK:                  { x: 1365, y:  644, w:  100, h:   78 },
   CAR03:                  { x: 1383, y:  760, w:   88, h:   55 },
   CAR02:                  { x: 1383, y:  825, w:   80, h:   59 },
-  CAR04:                  { x: 1383, y:  894, w:   80, h:   57 },
+  CAR04:                  { x: 1383, y:  894, w:   80, h:   70 },
   CAR01:                  { x: 1205, y: 1018, w:   80, h:   56 },
   PLAYER_UPHILL_LEFT:     { x: 1383, y:  961, w:   80, h:   45 },
   PLAYER_UPHILL_STRAIGHT: { x: 1295, y: 1018, w:   80, h:   45 },
@@ -34,3 +34,5 @@ var SPRITES = {
   PLAYER_STRAIGHT:        { x: 1085, y:  480, w:   80, h:   41 },
   PLAYER_RIGHT:           { x:  995, y:  531, w:   80, h:   41 }
 };
+
+// CAR04: 57
